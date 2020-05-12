@@ -69,9 +69,9 @@ p {
 }
 
 .bg1 {
-  background: url('./bg1.jpg');
+  background: url('images/bg1.jpg');
 }
 
 .bg2 {
-  background: url('./bg2.jpg');
+  background: url('images/bg2.jpg');
 }
